@@ -1,0 +1,65 @@
+{
+  "theme": {
+    "dark": true,
+    "primario": {
+      "darken2": "#164666",
+      "darken1": "#20638f",
+      "base": "#2980b9",
+      "lighten1": "#409ad5",
+      "lighten2": "#6ab0de"
+    },
+    "secundario": {
+      "darken2": "#c67e0a",
+      "darken1": "#f29c11",
+      "base": "#f5b041",
+      "lighten1": "#f8c471",
+      "lighten2": "#fad8a2"
+    },
+    "alternativo": {
+      "darken2": "#CC8315",
+      "darken1": "#E69317",
+      "base": "#FFA31A",
+      "lighten1": "#FFAD31",
+      "lighten2": "#FFB648"
+    },
+    "positivo": {
+      "darken2": "#1b7943",
+      "darken1": "#25a25a",
+      "base": "#2ecc71",
+      "lighten1": "#54d98c",
+      "lighten2": "#7ee2a8"
+    },
+    "alerta": {
+      "darken2": "#876E0B",
+      "darken1": "#B4920E",
+      "base": "#E1B712",
+      "lighten1": "#E7C541",
+      "lighten2": "#EDD471"
+    },
+    "negativo": {
+      "darken2": "#a82315",
+      "darken1": "#d62c1a",
+      "base": "#e74c3c",
+      "lighten1": "#ed7669",
+      "lighten2": "#f29f97"
+    },
+    "oscuro": {
+      "full": "#aeb6bf",
+      "darken6": "#1a1d21",
+      "darken5": "#31373d",
+      "darken4": "#47505a",
+      "darken3": "#5e6976",
+      "darken2": "#758392",
+      "darken1": "#929ca8"
+    },
+    "claro": {
+      "darken6": "#586767",
+      "darken5": "#708282",
+      "darken4": "#8a9b9b",
+      "darken3": "#a6b2b2",
+      "darken2": "#c1caca",
+      "darken1": "#dde1e1",
+      "full": "#F8F9F9"
+    }
+  }
+}
